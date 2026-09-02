@@ -1,0 +1,1 @@
+Conducted a simulated digital forensic investigation of a Windows system and memory dump using Autopsy, Volatility, and FTK Imager to identify digital evidence, timelines, and potential anti-forensic activity.
